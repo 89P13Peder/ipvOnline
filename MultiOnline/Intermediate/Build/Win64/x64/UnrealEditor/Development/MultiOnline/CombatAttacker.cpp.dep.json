@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\source\\multionline\\variant_combat\\interfaces\\combatattacker.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\x64\\multionlineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multionline\\definitions.multionline.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\source\\multionline\\variant_combat\\interfaces\\combatattacker.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\unrealeditor\\inc\\multionline\\uht\\combatattacker.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

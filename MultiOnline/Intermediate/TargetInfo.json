@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiOnline",
+			"Path": "..\\Source\\MultiOnline.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiOnlineEditor",
+			"Path": "..\\Source\\MultiOnlineEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

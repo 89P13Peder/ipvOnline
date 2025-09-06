@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\source\\multionline\\variant_sidescrolling\\gameplay\\sidescrollingpickup.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\x64\\multionlineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multionline\\definitions.multionline.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\source\\multionline\\variant_sidescrolling\\gameplay\\sidescrollingpickup.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\unrealeditor\\inc\\multionline\\uht\\sidescrollingpickup.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\source\\multionline\\variant_sidescrolling\\sidescrollinggamemode.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\unrealeditor\\inc\\multionline\\uht\\sidescrollinggamemode.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

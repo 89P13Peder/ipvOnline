@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MultiOnline.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiOnline.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MultiOnlineEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MultiOnline">
+      <UniqueIdentifier>{84E81E3E-9B12-395D-A66E-CCDF6EF3F6BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiOnline\MultiOnline.Build.cs">
+      <Filter>Source\MultiOnline</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MultiOnline\MultiOnline.cpp">
+      <Filter>Source\MultiOnline</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\MultiOnline.h">
+      <Filter>Source\MultiOnline</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\MultiOnlineCharacter.cpp">
+      <Filter>Source\MultiOnline</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\MultiOnlineCharacter.h">
+      <Filter>Source\MultiOnline</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\MultiOnlineGameMode.cpp">
+      <Filter>Source\MultiOnline</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\MultiOnlineGameMode.h">
+      <Filter>Source\MultiOnline</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\MultiOnlinePlayerController.cpp">
+      <Filter>Source\MultiOnline</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\MultiOnlinePlayerController.h">
+      <Filter>Source\MultiOnline</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_Combat">
+      <UniqueIdentifier>{23948F27-E34E-342F-97FB-32D4FEDDB0CD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\MultiOnline\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\MultiOnline\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\MultiOnline\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_Combat\AI">
+      <UniqueIdentifier>{E85B31A2-1551-30E4-A3D4-EF1FC2FFB5F3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\MultiOnline\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_Combat\Animation">
+      <UniqueIdentifier>{426D5775-829B-3492-BAF0-A3F19657FCFB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{17CE9793-11D4-38E0-AFAA-709243F0707A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{3DDC9BA0-F68D-38AF-9F17-FF4EF030D4B7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\MultiOnline\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_Combat\UI">
+      <UniqueIdentifier>{AE1DA7B9-26A3-360B-BAED-BF4458A59A71}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\MultiOnline\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\MultiOnline\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_Platforming">
+      <UniqueIdentifier>{BD8CAAF0-7E93-3825-A072-9B0D7D9BB9C5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\MultiOnline\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\MultiOnline\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\MultiOnline\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\MultiOnline\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\MultiOnline\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\MultiOnline\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_Platforming\Animation">
+      <UniqueIdentifier>{0896DBF3-4744-3FC9-9649-0E93FB3E6424}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\MultiOnline\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\MultiOnline\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_SideScrolling">
+      <UniqueIdentifier>{4C415479-301C-3F87-A25C-0BC232B67A24}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{1CD5D1E8-A9DB-3617-8880-B3E5A53F4931}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{9CE0E40F-C93E-36FA-87E6-62D697EE1267}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{63A70A53-172A-3008-BC1B-2E812AA8B327}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\MultiOnline\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{98AE58E1-A896-3D15-97EA-0DFC1E6A0D38}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiOnline\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiOnline\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\MultiOnline\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

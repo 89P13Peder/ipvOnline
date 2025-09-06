@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\source\\multionline\\variant_combat\\gameplay\\combatdummy.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\x64\\multionlineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multionline\\definitions.multionline.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\source\\multionline\\variant_combat\\gameplay\\combatdummy.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\source\\multionline\\variant_combat\\interfaces\\combatdamageable.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\unrealeditor\\inc\\multionline\\uht\\combatdamageable.generated.h",
+            "c:\\users\\diego\\onedrive\\documentos\\unreal projects\\multionline\\intermediate\\build\\win64\\unrealeditor\\inc\\multionline\\uht\\combatdummy.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicsconstraintcomponent.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintinstance.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintinstance.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicsconstraintcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
